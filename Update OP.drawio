@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T19:23:53.644Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="8RN2HIfhXyKRvKKq9Q_6" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T19:24:54.608Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="mFCDUCmBBL7gl6RmC52A" version="16.5.6" type="github">
   <diagram id="q-EmMC9X0__6D4VHMqhm" name="Overview">
-    <mxGraphModel dx="287" dy="165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-64" value="&lt;h1&gt;Scketch&lt;/h1&gt;&lt;p&gt;Four nodes in action, only 2 needed to perform an aggregation.&lt;/p&gt;&lt;p&gt;Node 3 is not considered in the aggregation and Node 4 doesn&#39;t perform any update&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-64" value="&lt;h1&gt;Scketch&lt;/h1&gt;&lt;p&gt;Four nodes in action, only 2 needed to perform an aggregation.&lt;/p&gt;&lt;p&gt;Node 3 is not considered in the aggregation and Node 4 doesn&#39;t perform any update (time or deviance are not fulfilled )&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="235" y="10" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
