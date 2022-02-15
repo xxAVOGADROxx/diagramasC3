@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T01:29:27.399Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="D62IgxZBIVPqn0MdQEsC" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T01:31:54.496Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="r8QV3dY77SIlluNYmqHF" version="16.5.6" type="github">
   <diagram id="q-EmMC9X0__6D4VHMqhm" name="Overview">
-    <mxGraphModel dx="1326" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="539" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,11 @@
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-93" value="Aggregation state&lt;br&gt;NFT + C3 lock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="410.11" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-233" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=6;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=1;" edge="1" parent="1" source="FrKVuYSW78Wtg0SNFRg6-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-106" value="TX: Collect" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="840" y="240" width="50" height="98.5" as="geometry" />
@@ -343,13 +348,13 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-217" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;x USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" vertex="1" parent="1">
           <mxGeometry x="779.88" y="680" width="40.23" height="11.82" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-218" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;exitX=0.994;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrKVuYSW78Wtg0SNFRg6-4" target="FrKVuYSW78Wtg0SNFRg6-220">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-218" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;exitX=0.994;exitY=0.123;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FrKVuYSW78Wtg0SNFRg6-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="210" as="targetPoint" />
+            <mxPoint x="770" y="280" as="targetPoint" />
             <mxPoint x="642.3399999999999" y="243.64" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="710" y="234" />
-              <mxPoint x="710" y="210" />
+              <mxPoint x="710" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -472,7 +477,7 @@
           <mxGeometry x="840" y="388.5" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-220" value="Aggregation state&#39;&amp;nbsp;&lt;br&gt;NFT + C3 lock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="770" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="760.11" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-222" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="179.77" y="740" width="220.69000000000003" height="90" as="geometry" />
