@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T05:14:02.768Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="LMH2JizST7-_Eu64xxHY" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T06:04:51.575Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="45VVgVyBJytROAc7V5pd" version="16.5.6" type="github">
   <diagram id="q-EmMC9X0__6D4VHMqhm" name="Overview">
-    <mxGraphModel dx="1432" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,7 +435,7 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-239" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Tx: Update &amp;amp;&amp;amp; Aggregate&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;align=center;container=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="980" width="70" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-242" value="Update Node 3&lt;br&gt;s USDC/ADA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;container=0;" parent="1" vertex="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-242" value="Update Node 3&lt;br&gt;s USDC/ADA (deviance v%)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;container=0;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="930" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-244" value="Node state 1&lt;br&gt;NFT + Feed updated&amp;nbsp;&lt;br&gt;x USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
