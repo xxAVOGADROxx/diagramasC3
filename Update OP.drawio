@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T04:47:26.227Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="oy4uyO6i7_fSOQt-_vBB" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T05:14:02.768Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="LMH2JizST7-_Eu64xxHY" version="16.5.6" type="github">
   <diagram id="q-EmMC9X0__6D4VHMqhm" name="Overview">
-    <mxGraphModel dx="716" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontSize=6;fillColor=none;strokeWidth=0.5;strokeColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1030" width="380" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="u_l4lUz6C6HOjq0QT1pG-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontSize=6;fillColor=none;strokeWidth=0.5;strokeColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="913.92" y="554.55" width="86.08" height="305.45" as="geometry" />
-        </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontSize=6;fillColor=none;strokeWidth=0.5;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="360.23" y="1040" width="119.77" height="290" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-182" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontSize=6;fillColor=none;strokeWidth=0.5;strokeColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="300" y="275" width="140" height="565" as="geometry" />
@@ -16,14 +16,14 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-4" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Tx: Aggregate&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;container=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="150" width="60" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-46" value="Aggregation state&lt;br&gt;NFT + C3 locked&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-46" value="Aggregation state&lt;br&gt;NFT + X C3 locked&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="181.14" width="89.64" height="7.73" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-64" value="&lt;h1&gt;Description&lt;/h1&gt;&lt;p&gt;Five nodes in action, only 2 needed to perform an aggregation.&lt;/p&gt;&lt;p&gt;Node 3 is not considered in the aggregation, Node 4 and Node 5 updated is value too late to participate in the aggregation&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="130" y="71.82" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-93" value="Aggregation state&lt;br&gt;NFT + C3 lock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="410.11" y="150" width="60" height="30" as="geometry" />
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-93" value="Aggregation state&lt;br&gt;NFT +&amp;nbsp; Y C3 locked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" parent="1" vertex="1">
+          <mxGeometry x="410.35" y="141.82" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-233" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=6;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=2;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-106" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-110" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=oval;endFill=1;strokeColor=#0066CC;" parent="1" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-110" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="181" as="targetPoint" />
             <mxPoint x="570" y="229" as="sourcePoint" />
@@ -62,7 +62,7 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-111" value="Oracle feed NFT +&lt;br&gt;a USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="410.35" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=6;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=1;dashed=1;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-125" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=6;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=2;dashed=1;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="210" as="targetPoint" />
             <Array as="points">
@@ -278,7 +278,7 @@
           <mxGeometry x="359.68" y="785.67" width="20" height="139.35" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-185" value="Required period of time to accept a new aggregation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=0;textOpacity=80;" parent="1" vertex="1">
-          <mxGeometry x="345.34999999999997" y="890" width="65" height="10" as="geometry" />
+          <mxGeometry x="338.64" y="870" width="65" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-213" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;strokeWidth=2;exitX=1.026;exitY=0.466;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -414,11 +414,12 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-127" value="Tx: Custom contract" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="895.12" y="388.86" width="50" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-239" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.429;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;exitPerimeter=0;strokeWidth=2;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-239" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="1140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="1180" />
+              <mxPoint x="641" y="1160" />
+              <mxPoint x="690" y="1160" />
               <mxPoint x="690" y="1140" />
             </Array>
           </mxGeometry>
@@ -437,8 +438,8 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-242" value="Update Node 3&lt;br&gt;s USDC/ADA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;container=0;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="930" width="55" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-244" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;x USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
-          <mxGeometry x="739.65" y="1107.73" width="40.23" height="11.82" as="geometry" />
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-244" value="Node state 1&lt;br&gt;NFT + Feed updated&amp;nbsp;&lt;br&gt;x USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
+          <mxGeometry x="725.82" y="1107.69" width="67.88" height="11.82" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;startArrow=circlePlus;startFill=0;strokeWidth=1;endArrow=halfCircle;endFill=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -453,7 +454,7 @@
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;startArrow=none;startFill=0;strokeWidth=1;endArrow=halfCircle;endFill=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="479.99999999999994" y="1070" as="targetPoint" />
-            <mxPoint x="270" y="1060" as="sourcePoint" />
+            <mxPoint x="230" y="1060" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="270" y="1050" />
               <mxPoint x="430" y="1050" />
@@ -576,7 +577,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;startArrow=circlePlus;startFill=0;strokeWidth=1;endArrow=halfCircle;endFill=0;curved=1;" parent="1" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;startArrow=circlePlus;startFill=0;strokeWidth=2;endArrow=halfCircle;endFill=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="180" as="targetPoint" />
             <mxPoint x="360.0000000000001" y="160" as="sourcePoint" />
@@ -586,126 +587,124 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-243" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;g USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
-          <mxGeometry x="459.77" y="1040" width="40.23" height="11.82" as="geometry" />
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-243" value="Node state 3&lt;br&gt;Feed updated&amp;nbsp;&lt;br&gt;g USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
+          <mxGeometry x="459.77" y="1040" width="50.23" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-279" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1179.55" as="targetPoint" />
+            <mxPoint x="480.23" y="1179.51" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399.77" y="1144.55" />
-              <mxPoint x="399.77" y="1179.55" />
+              <mxPoint x="460" y="1144.51" />
+              <mxPoint x="460" y="1179.51" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;startArrow=circlePlus;startFill=0;strokeWidth=1;endArrow=halfCircle;endFill=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.76999999999998" y="1159.55" as="targetPoint" />
-            <mxPoint x="120" y="1139.32" as="sourcePoint" />
+            <mxPoint x="260" y="1159.51" as="targetPoint" />
+            <mxPoint x="180.23" y="1139.28" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="170" y="1139.32" />
-              <mxPoint x="170" y="1159.32" />
+              <mxPoint x="230.23" y="1139.28" />
+              <mxPoint x="230.23" y="1159.28" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-279" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Tx: Update&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;align=center;container=0;" parent="1" vertex="1">
-          <mxGeometry x="279.77" y="1119.55" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="1119.51" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#004C99;strokeWidth=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-279" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.76999999999998" y="1159.55" as="targetPoint" />
-            <mxPoint x="279.06246721561445" y="1152.55" as="sourcePoint" />
+            <mxPoint x="260" y="1159.51" as="targetPoint" />
+            <mxPoint x="339.29246721561447" y="1152.51" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="249.76999999999998" y="1144.55" />
-              <mxPoint x="249.76999999999998" y="1159.55" />
+              <mxPoint x="310" y="1144.51" />
+              <mxPoint x="310" y="1159.51" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-281" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=6;strokeColor=#00CC00;strokeWidth=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-279" target="FrKVuYSW78Wtg0SNFRg6-282" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="139.77" y="1109.55" as="sourcePoint" />
-            <mxPoint x="304.77" y="1099.55" as="targetPoint" />
+            <mxPoint x="200" y="1109.51" as="sourcePoint" />
+            <mxPoint x="365" y="1099.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-282" value="Update Node 1&lt;br&gt;x USDC/ADA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="277.27" y="1079.55" width="55" height="22" as="geometry" />
+          <mxGeometry x="337.5" y="1079.51" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-283" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;_ USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
-          <mxGeometry x="179.77" y="1127.5" width="40.23" height="11.82" as="geometry" />
+          <mxGeometry x="240" y="1127.46" width="40.23" height="11.82" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-284" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=oval;endFill=1;strokeColor=#004C99;exitX=-0.014;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-239" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-284" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=oval;endFill=1;strokeColor=#004C99;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1180.4599999999998" as="targetPoint" />
-            <mxPoint x="570" y="1130.47" as="sourcePoint" />
+            <mxPoint x="480.23" y="1180.4199999999998" as="targetPoint" />
+            <mxPoint x="570" y="1147" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="569" y="1131" />
-              <mxPoint x="480" y="1131" />
-              <mxPoint x="480" y="1181" />
+              <mxPoint x="540" y="1147" />
+              <mxPoint x="540" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-285" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;x USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
-          <mxGeometry x="410.11" y="1149.55" width="40.23" height="11.82" as="geometry" />
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-285" value="Node state 1&lt;br&gt;NFT + Feed updated&amp;nbsp;&lt;br&gt;x USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
+          <mxGeometry x="470.34000000000003" y="1149.51" width="49.89" height="11.82" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-288" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1279.55" as="targetPoint" />
+            <mxPoint x="480.23" y="1279.51" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399.77" y="1244.55" />
-              <mxPoint x="399.77" y="1279.55" />
+              <mxPoint x="460" y="1244.51" />
+              <mxPoint x="460" y="1279.51" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;startArrow=circlePlus;startFill=0;strokeWidth=1;endArrow=halfCircle;endFill=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.76999999999998" y="1259.55" as="targetPoint" />
-            <mxPoint x="120" y="1239.32" as="sourcePoint" />
+            <mxPoint x="260" y="1259.51" as="targetPoint" />
+            <mxPoint x="180.23" y="1239.28" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="170" y="1239.32" />
-              <mxPoint x="170" y="1259.32" />
+              <mxPoint x="230.23" y="1239.28" />
+              <mxPoint x="230.23" y="1259.28" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-288" value="&lt;div&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Tx: Update&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;align=center;container=0;" parent="1" vertex="1">
-          <mxGeometry x="279.77" y="1219.55" width="50" height="50" as="geometry" />
+          <mxGeometry x="393.64" y="1219.51" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#004C99;strokeWidth=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-288" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.76999999999998" y="1259.55" as="targetPoint" />
-            <mxPoint x="279.06246721561445" y="1252.55" as="sourcePoint" />
+            <mxPoint x="260" y="1260" as="targetPoint" />
+            <mxPoint x="339.29246721561447" y="1252.51" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="249.76999999999998" y="1244.55" />
-              <mxPoint x="249.76999999999998" y="1259.55" />
+              <mxPoint x="310" y="1244.51" />
+              <mxPoint x="310" y="1259.51" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-290" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=6;strokeColor=#00CC00;strokeWidth=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-288" target="FrKVuYSW78Wtg0SNFRg6-291" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="139.77" y="1209.55" as="sourcePoint" />
-            <mxPoint x="304.77" y="1199.55" as="targetPoint" />
+            <mxPoint x="200" y="1209.51" as="sourcePoint" />
+            <mxPoint x="365" y="1199.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-291" value="Update Node 2&lt;br&gt;y USDC/ADA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="277.27" y="1179.55" width="55" height="22" as="geometry" />
+          <mxGeometry x="391.14" y="1179.51" width="55" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-292" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;_ USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
-          <mxGeometry x="179.77" y="1227.5" width="40.23" height="11.82" as="geometry" />
+          <mxGeometry x="240" y="1227.46" width="40.23" height="11.82" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-293" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=oval;endFill=1;strokeColor=#004C99;exitX=-0.014;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-239" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-293" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=oval;endFill=1;strokeColor=#004C99;exitX=0.012;exitY=0.637;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FrKVuYSW78Wtg0SNFRg6-239" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1280.4599999999998" as="targetPoint" />
-            <mxPoint x="570" y="1230.47" as="sourcePoint" />
+            <mxPoint x="480.23" y="1280.4199999999998" as="targetPoint" />
+            <mxPoint x="629.25" y="1219.96" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="569" y="1231" />
-              <mxPoint x="480" y="1231" />
-              <mxPoint x="480" y="1281" />
+              <mxPoint x="540" y="1235" />
+              <mxPoint x="540" y="1280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-294" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;y USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
-          <mxGeometry x="410.11" y="1249.55" width="40.23" height="11.82" as="geometry" />
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-294" value="Node state2&lt;br&gt;NFT + Feed updated&amp;nbsp;&lt;br&gt;y USDC/ADA&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
+          <mxGeometry x="470.34000000000003" y="1249.51" width="49.89" height="11.82" as="geometry" />
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-300" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;dashed=1;" parent="1" edge="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-300" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;dashed=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1050" y="160" as="targetPoint" />
             <mxPoint x="945.12" y="150" as="sourcePoint" />
@@ -715,7 +714,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-301" value="Aggregation state&lt;br&gt;NFT + C3* locked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-301" value="Aggregation state&lt;br&gt;NFT + W C3 locked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" parent="1" vertex="1">
           <mxGeometry x="1000.36" y="134.09" width="89.64" height="7.73" as="geometry" />
         </mxCell>
         <mxCell id="FrKVuYSW78Wtg0SNFRg6-303" value="&lt;h1&gt;Be Aware! (1)&lt;/h1&gt;&lt;p&gt;&lt;span&gt;If the aggregation Aggregation state and Add founds operations are performed in the same slot of time then it can retrieve issues because those operations need to be sequential in execution as they consume the same UTxO&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=6;opacity=40;" parent="1" vertex="1">
@@ -734,7 +733,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrKVuYSW78Wtg0SNFRg6-307" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;strokeWidth=1;exitX=1.005;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="FrKVuYSW78Wtg0SNFRg6-4">
+        <mxCell id="FrKVuYSW78Wtg0SNFRg6-307" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=halfCircle;endFill=0;strokeColor=#990000;strokeWidth=2;exitX=1.005;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="FrKVuYSW78Wtg0SNFRg6-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="210" as="targetPoint" />
             <mxPoint x="625.12" y="223.49" as="sourcePoint" />
@@ -861,25 +860,26 @@
             <mxPoint x="1195.3999999999999" y="679.9950000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;" edge="1" parent="1">
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.033;exitY=0.63;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="FrKVuYSW78Wtg0SNFRg6-239">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730.23" y="1254.55" as="targetPoint" />
+            <mxPoint x="760" y="1255" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="1219.55" />
-              <mxPoint x="710" y="1254.55" />
+              <mxPoint x="710" y="1232" />
+              <mxPoint x="710" y="1255" />
             </Array>
             <mxPoint x="640" y="1219.55" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-27" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;y USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="714.89" y="1215.6799999999998" width="40.23" height="11.82" as="geometry" />
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-27" value="Node state 2&lt;br&gt;NFT + Feed updated&amp;nbsp;&lt;br&gt;y USDC/ADA&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="734.59" y="1215.6399999999999" width="40.23" height="11.82" as="geometry" />
         </mxCell>
         <mxCell id="u_l4lUz6C6HOjq0QT1pG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="1080" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="1080" />
-              <mxPoint x="690" y="1080" />
+              <mxPoint x="640" y="1090" />
+              <mxPoint x="700" y="1090" />
+              <mxPoint x="700" y="1080" />
             </Array>
             <mxPoint x="640" y="1080" as="sourcePoint" />
           </mxGeometry>
@@ -896,7 +896,7 @@
             <mxPoint x="640" y="1030" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;" edge="1" parent="1">
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=halfCircle;endFill=0;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="960" as="targetPoint" />
             <Array as="points">
@@ -906,10 +906,10 @@
             <mxPoint x="640" y="1000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-33" value="Node state&lt;br&gt;Fee updated&amp;nbsp;&lt;br&gt;s USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="734.59" y="1051.82" width="40.23" height="11.82" as="geometry" />
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-33" value="Node state 3&lt;br&gt;NFT + Feed updated&amp;nbsp;&lt;br&gt;s USDC/ADA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="725.82" y="1050" width="65.41" height="11.82" as="geometry" />
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=6;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=6;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#0066CC;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="960" as="targetPoint" />
             <mxPoint x="570" y="990" as="sourcePoint" />
@@ -932,13 +932,13 @@
         <mxCell id="u_l4lUz6C6HOjq0QT1pG-36" value="Aggregation state&lt;br&gt;NFT + C3 lock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="410.11" y="926" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-37" value="Oracle feed&lt;br&gt;a USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-37" value="Oracle feed + NFT&lt;br&gt;a USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="380" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-38" value="Aggregation state&lt;br&gt;NFT + C3 lock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-38" value="Aggregation state +&amp;nbsp;&lt;br&gt;NFT + C3* locked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="729.76" y="922" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_l4lUz6C6HOjq0QT1pG-39" value="Oracle feed&lt;br&gt;x USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-39" value="Oracle feed + NFT&lt;br&gt;x USDC/ADA + Boolean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="729.76" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_l4lUz6C6HOjq0QT1pG-41" value="Node owner wallet 3&lt;br&gt;C3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;container=0;" vertex="1" parent="1">
@@ -1012,6 +1012,12 @@
         </mxCell>
         <mxCell id="u_l4lUz6C6HOjq0QT1pG-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;BA 2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=6;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="754.8199999999999" y="677.0899999999999" width="20" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-65" value="Required period of time to accept a new aggregation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=0;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="1430" width="65" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="u_l4lUz6C6HOjq0QT1pG-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=6;strokeColor=#67AB9F;strokeWidth=0.5;fillColor=none;rotation=-270;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1225" width="20" height="369.35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
